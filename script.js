@@ -1,4 +1,3 @@
-//your JS code here. If required.
 let num1 = prompt("Enter the first number:");
 let num2 = prompt("Enter the second number:");
 
@@ -15,4 +14,3 @@ else if (!isNaN(num1) || !isNaN(num2)) {
 else {
   alert("Invalid input. Please enter two valid numbers.");
 }
-
